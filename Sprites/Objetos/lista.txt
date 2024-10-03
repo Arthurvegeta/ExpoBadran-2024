@@ -1,0 +1,9 @@
+processador
+memoria RAM
+placa mãe
+placa de video
+monitor
+gabinete
+fonte 
+disco rígido
+
